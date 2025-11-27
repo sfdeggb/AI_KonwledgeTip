@@ -1,2 +1,0 @@
-- [面向初学者的LLM开发教程](https://datawhalechina.github.io/llm-cookbook/#/)
-- [强化学习基础](https://datawhalechina.github.io/easy-rl/#/)

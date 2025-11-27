@@ -1,3 +1,0 @@
-# Deep Learning Tuning Playbook
-
-  
